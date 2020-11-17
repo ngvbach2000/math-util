@@ -8,7 +8,7 @@
 * README.md - this file itseft to show the homepage of this repo
 
 ## Connect me via 
-[Facebook] (https://fb.me/ngvbach2000)
-[Email] (mailto:ngvbach2000@gmail.com)
+1. [Facebook](https://fb.me/ngvbach2000)
+2. [Email](mailto:ngvbach2000@gmail.com)
 
 #### © 2020 by ngvbach2000
