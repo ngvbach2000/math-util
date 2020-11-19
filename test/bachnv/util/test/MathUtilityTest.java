@@ -25,7 +25,7 @@ public class MathUtilityTest {
         assertEquals(120, MathUtility.getFactorial(5));
         assertEquals(24, MathUtility.getFactorial(4));
         assertEquals(6, MathUtility.getFactorial(3));
-        assertEquals(10, MathUtility.getFactorial(0));
+        assertEquals(1, MathUtility.getFactorial(0));
     }
     //xanh chi dat duoc neu tat ca cung xanh, dung het moi tinh huong
     //do chi can it nhat mot thang do, chap bat car thanh phan con lai
